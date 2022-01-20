@@ -9,4 +9,4 @@ Basically, I had to implement an Assembly script that calculate based on a given
 {1, ..., n}, where each element appears exactly 3 times, with a distance of at least m
 elements between any two equal elements.
 
-I also implemented this script with using of functions and backtracking programming method.
+I also implemented this script using functions and backtracking programming method.
